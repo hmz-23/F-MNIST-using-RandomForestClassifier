@@ -24,7 +24,7 @@ For example, pixel31 indicates the pixel that is in the fourth column from the l
 
 #### Labels
 
-Each training and test example is assigned to one of the following labels:
+Each training and test example is assigned to one of the following labels:/
 
 0 T-shirt/top/
 1 Trouser/
